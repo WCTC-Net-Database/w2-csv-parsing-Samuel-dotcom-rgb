@@ -70,7 +70,7 @@ class Program
             }
         }
     }
-
+// this is where you add the characters for the csv file, i think you can make it work if you run it
     static void AddCharacter(ref string[] lines)
     {
         Console.Write("Enter name: ");
