@@ -184,7 +184,7 @@ class Program
         }
         Console.WriteLine("Character not found.");
     }
-
+// I think this connects to the csv file if i recall correctly, so it saves the progress
     static void SaveLines()
     {
         File.WriteAllLines(filePath, lines);
