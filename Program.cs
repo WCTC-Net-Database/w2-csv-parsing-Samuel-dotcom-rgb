@@ -136,7 +136,7 @@ class Program
         }
         Console.WriteLine("Character not found.");
     }
-
+// you can change the character's equipment for change, add, or remove items
     static void EditEquipment()
     {
         Console.Write("Enter the name of the character to edit equipment: ");
