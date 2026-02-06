@@ -43,7 +43,7 @@ class Program
             }
         }
     }
-
+// i think this is where you put the characters to be inserted here, dont ask on how it wants to equip things
     static void DisplayAllCharacters(string[] lines)
     {
         // Skip the header row
