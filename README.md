@@ -1,1 +1,1 @@
-Note to self: Copilot did the dirty work for me.
+Note to self: Use notes. They might be useful when commiting.
